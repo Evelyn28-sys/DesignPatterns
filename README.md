@@ -1,4 +1,4 @@
-📘 Design Patterns – Exemplos Práticos em Console
+📘💄 Design Patterns – Exemplos Práticos em Console
 Este repositório apresenta 10 Design Patterns clássicos, implementados em C# com foco em uso prático em sistemas reais.
 O objetivo do projeto não é apenas demonstrar a estrutura dos padrões, mas explicar por que e quando eles foram utilizados, baseando-se em cenários comuns de aplicações corporativas, como autenticação, auditoria, cache, controle de acesso, orquestração de serviços e operações de uma loja de maquiagem.
 Todos os exemplos rodam em Console, para manter o foco no comportamento dos patterns, sem distrações de frameworks web ou camadas visuais.
